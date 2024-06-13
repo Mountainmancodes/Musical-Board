@@ -45,12 +45,20 @@ function renderTaskList() {
 }
 
 // Function to handle adding a new task
-
+function handleAddTask(event){
+}
 
 // Function to handle deleting a task
+function handleDeleteTask(event){
 
+}
 
 // Function to handle dropping a task into a new status lane
+function handleDrop(event, ui) {
 
+}
 
 // When the page loads, render the task list, add event listeners, make lanes droppable, and make the due date field a date picker
+$(document).ready(function () {
+
+});
