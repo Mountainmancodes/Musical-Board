@@ -1,6 +1,6 @@
 # Musical Boards C5 Project
 
-Musical Boards is a simple Kanban-style task management application that allows users to add, delete, and organize tasks into different statuses: To Do, In Progress, and Done. Tasks are color-coded based on their due dates, with overdue tasks marked in red and tasks due today marked in yellow.
+Musical Boards is a simple Kanban-style task management application that allows users to add, delete, and organize tasks into different statuses: To Do, In Progress, and Done.
 
 ## Features
 
