@@ -21,8 +21,20 @@ body {
 
 .task-card {
   margin: 0 auto;
+  position: relative;
+  z-index: 1;
 }
 
 .task-card:hover {
   cursor: grab;
+}
+
+.dragging {
+  opacity: 0.5;
+  cursor: grabbing;
+  z-index: 1000;
+}
+
+.drop-hover {
+  border: 2px dashed #aaa;
 }
