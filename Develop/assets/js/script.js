@@ -116,11 +116,5 @@ $(document).ready(() => {
   formEl.on('submit', handleAddTask);
   $(document).on('click', '.delete-task', handleDeleteTask);
   $(".lane").droppable({ drop: handleDrop });
-
-  // Datepicker widget
-  $('#taskDeadline').datepicker({
-    changeMonth: true,
-    changeYear: true,
-    dateFormat: 'yy-mm-dd'
-  });
+  
 });
