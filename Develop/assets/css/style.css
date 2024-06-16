@@ -3,6 +3,18 @@ body {
   font-size: 16px;
 }
 
+.card.task-card.past-due {
+  background-color: red;
+}
+
+.card.task-card.today-due {
+  background-color: yellow;
+}
+
+.card.task-card.upcoming-due {
+  background-color: white;
+}
+
 .swim-lanes {
   min-height: 60vh;
 }
