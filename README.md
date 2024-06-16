@@ -1,7 +1,3 @@
-Here's a README file based on the provided codebase:
-
----
-
 # Musical Boards C5 Project
 
 Musical Boards is a simple Kanban-style task management application that allows users to add, delete, and organize tasks into different statuses: To Do, In Progress, and Done. Tasks are color-coded based on their due dates, with overdue tasks marked in red and tasks due today marked in yellow.
@@ -11,7 +7,6 @@ Musical Boards is a simple Kanban-style task management application that allows 
 - **Add Tasks**: Create new tasks with a title, description, and deadline.
 - **Delete Tasks**: Remove tasks from the board.
 - **Drag and Drop**: Move tasks between "To Do", "In Progress", and "Done" columns.
-- **Due Date Highlighting**: Tasks are highlighted based on their due dates.
 - **Persistent Storage**: Tasks are saved in the browser's local storage.
 
 ## Technologies Used
@@ -31,6 +26,8 @@ Musical Boards is a simple Kanban-style task management application that allows 
 5. Click the "Delete" button on a task to remove it from the board.
 
 ## Example with link to website
+
+![Example](image.png)
 
 
 ## License
