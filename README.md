@@ -27,7 +27,7 @@ Musical Boards is a simple Kanban-style task management application that allows 
 
 ## Example with link to website
 [Github URL](https://mountainmancodes.github.io/Musical-Board/)
-![Example](image.png)
+![Example](./Develop/assets/images/Screenshot%202024-06-16%20153912.png)
 
 
 ## License
